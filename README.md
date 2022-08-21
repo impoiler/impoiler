@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hello@suresh.im**
 
-- 📄 Know about my experiences [thesuresh.in/Resume.pdf](thesuresh.in/Resume.pdf)
+- 📄 Know about my experiences [https://thesuresh.in/Resume.pdf](thesuresh.in/Resume.pdf)
 
 - ⚡ Fun fact **I think we all are live in illusions**
 
