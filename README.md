@@ -7,15 +7,15 @@
 
 - 👯 I’m looking to collaborate on [Git_user](https://git.sureshdev.in)
 
-- 👨‍💻 All of my projects are available at [projects.thesuresh.in](projects.thesuresh.in)
+- 👨‍💻 All of my projects are available at [projects.thesuresh.in](https://projects.thesuresh.in)
 
-- 📝 I regularly write articles on [blog.suresh.im](blog.suresh.im)
+- 📝 I regularly write articles on [blog.suresh.im](https://blog.suresh.im)
 
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **hello@suresh.im**
 
-- 📄 Know about my experiences [https://thesuresh.in/Resume.pdf](thesuresh.in/Resume.pdf)
+- 📄 Know about my experiences [Resume](https://thesuresh.in/Resume.pdf))
 
 - ⚡ Fun fact **I think we all are live in illusions**
 
