@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Suresh Chaudhary</h1>
 <h3 align="center">A passionate frontend developer from India who love to do code and spends most of time in being perfect</h3>
 
-- 🔭 I’m currently working on [Cortex_NFT](https://sureshdev.in)
+- 🔭 I’m currently working on [Cortex_NFT](https://cortex.suresh.im)
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👯 I’m looking to collaborate on [Git_user](https://git.sureshdev.in)
+- 👯 I’m looking to collaborate on [Git_user](https://git.suresh.im)
 
-- 👨‍💻 All of my projects are available at [projects.thesuresh.in](https://projects.thesuresh.in)
+- 👨‍💻 All of my projects are available at [https://suresh.im/work](https://suresh.im/work)
 
 - 📝 I regularly write articles on [blog.suresh.im](https://blog.suresh.im)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hello@suresh.im**
 
-- 📄 Know about my experiences [Resume](https://thesuresh.in/Resume.pdf))
+- 📄 Know about my experiences [Resume](https://suresh.im/resume.pdf))
 
 - ⚡ Fun fact **I think we all are live in illusions**
 
