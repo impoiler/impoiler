@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at [https://suresh.im/work](https://suresh.im/work)
+- 👨‍💻 All of my projects are available at [https://suresh.im/works](https://suresh.im/work)
 
 - 📝 I regularly write articles on [blog.suresh.im](https://blog.suresh.im)
 
