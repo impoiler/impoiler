@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👯 I’m looking to collaborate on [Git_user](https://git.suresh.im)
-
 - 👨‍💻 All of my projects are available at [https://suresh.im/work](https://suresh.im/work)
 
 - 📝 I regularly write articles on [blog.suresh.im](https://blog.suresh.im)
