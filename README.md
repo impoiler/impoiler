@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [Resume](https://suresh.im/resume.pdf))
 
-- ⚡ Fun fact **I think we all are live in illusions**
+- ⚡ Fun fact **I think we all live in illusions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
