@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suresh Chaudhary</h1>
 <h3 align="center">A passionate frontend developer from India who love to do code and spends most of time in being perfect</h3>
 
-- 🔭 I’m currently working on [Section.fyi](https://section.fyi)
+- 🔭 I’m currently working on [Tini.fyi](https://tini.fyi)
 
 - 🌱 I’m currently learning **Backend**
 
