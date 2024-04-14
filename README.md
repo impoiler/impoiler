@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [https://suresh.im/work](https://suresh.im/work)
+- 👨‍💻 All of my projects are available at [https://suresh.im/work](https://suresh.im)
 
-- 📝 I regularly write articles on [blog.suresh.im](https://blog.suresh.im)
+- 📝 I regularly write articles on [suresh.im/blog](https://suresh.im/blog)
 
 - 💬 Ask me about **React** and **NextJS**
 
