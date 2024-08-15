@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suresh Chaudhary</h1>
-<h3 align="center">A full-stack developer from India who love to do code and spends most of time in being perfect</h3>
+<h3 align="center">A full-stack developer from India who love to do code and spends most of time in being better.</h3>
 
 - 🔭 I’m currently working on [Tini.fyi](https://tini.fyi)
 
