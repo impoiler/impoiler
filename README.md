@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Suresh Chaudhary
 
-20 y/o Full Stack Engineer from India, crafting solutions for the internet. Currently building a framework for testing and monitoring AI applications at **Maxim AI**.
+Full Stack Engineer from India, crafting solutions for the internet. Currently building a framework for testing and monitoring AI applications at **Maxim AI**.
 
 ## 🚀 About Me
 
