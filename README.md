@@ -45,7 +45,7 @@ Full Stack Engineer from India, crafting solutions for the internet. Currently b
 
 - 📧 Email: hello@suresh.im
 - 🔗 Website: [suresh.im](https://suresh.im)
-- 📅 [Schedule a call with me](https://calendly.com/yourlink)
+- 📅 [Schedule a call with me](https://cal.com/impoiler)
 
 ---
 
